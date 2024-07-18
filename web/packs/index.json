@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "nekohd.json"
+  ],
+  "homeserver_url": "https://matrix.org"
+}
