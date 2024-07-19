@@ -1,6 +1,7 @@
 {
   "packs": [
-    "nekohd.json"
+    "nekohd.json",
+    "EdgyCatboy.json"
   ],
   "homeserver_url": "https://matrix.org"
 }
